@@ -16,5 +16,6 @@ const StyledText = ({children, style,small, big ,bold, ...props}) => {
         </Text>
 
     );
+
 };
  export default StyledText;
