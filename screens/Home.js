@@ -2,6 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 
 // components
+
 import MainContainer from '../components/containers/MainConatiner';
 import StyledText from '../components/Texts/StyledText';
 import NewsSection from '../components/News/NewsSection';
