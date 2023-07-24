@@ -1,4 +1,4 @@
-<div style="background-color:#f0f0f0; padding: 10px;">
+
 
 APP STRUCTURE
 StyledText Component: This is a custom component that renders a Text component with some additional styling options. It takes props like style, small, big, and bold to customize the appearance of the text.
@@ -49,4 +49,3 @@ It defines styles for the container, image, title, author, and other elements in
 As a whole, the app is a basic news application that displays a list of trending news articles on the home screen. Each news article is represented by a card-like NewsItem component, showing an image, title, author, and date. The StyledText component allows for consistent and customizable text styles throughout the app. 
 
 
-</div>
