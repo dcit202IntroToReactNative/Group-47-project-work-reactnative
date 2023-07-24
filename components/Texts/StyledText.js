@@ -1,5 +1,5 @@
 import {Text} from 'react-native';
-import{colors} from "../../config/theme"
+import{colors} from "../../config/theme" 
 const StyledText = ({children, style,small, big ,bold, ...props}) => {
     let activeColors = colors;
     return (
