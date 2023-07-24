@@ -1,5 +1,5 @@
 import React from 'react';
-import { TouchableOpacity, Image, StyleSheet, View, Text } from 'react-native'; // Import the Text component here
+import { TouchableOpacity, Image, StyleSheet, View, Text } from 'react-native'; // Import the Text component here 
 import { colors } from '../../config/theme';
 import { statusbar } from 'expo-status-bar'; // Is this needed?
 
