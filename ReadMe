@@ -1,0 +1,10 @@
+APP STRUCTURE
+StyledText Component: This is a custom component that renders a Text component with some additional styling options. It takes props like style, small, big, and bold to customize the appearance of the text.
+
+NewsItem Component: This component represents a single news item and displays an image, title, author, and date. It is used to render individual news items in the NewsSection component.
+
+newsData Array: This array contains news data, each item representing a news article with properties like id, title, image, date, author, avatar, and content.
+
+exploreData Array: This array contains data for exploring items, each item having properties like id, title, and image.
+
+Home Component: This is the main component that renders the home screen of the application. It includes the MainContainer, which seems to be a custom container component, and the NewsSection, which receives the newsData array as a prop to display the trending news.
