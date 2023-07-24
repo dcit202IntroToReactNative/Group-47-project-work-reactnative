@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, SafeAreaView, ScrollView} from 'react-native';
+import { StyleSheet, SafeAreaView, ScrollView} from 'react-native'; 
 import{colors} from "../../config/theme"
 const MainContainer = ({children, style, ...props}) => {
     let activeColors = colors;
