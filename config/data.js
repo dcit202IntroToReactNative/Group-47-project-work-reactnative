@@ -11,6 +11,7 @@ export const newsData = [
         Hello World! i am the best app developer. Hello World! i am the best app developer. `,
     },
     {
+        
         id:2,
         title:"All you need to know about the world",
         image: require("./../assets/images/car1.jpg"),
