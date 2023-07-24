@@ -1,4 +1,4 @@
-import {FlatList} from 'react-native';
+import {FlatList} from 'react-native'; 
 
 import NewsItem from './NewsItem';
 const NewsSection = ({data}) => {
