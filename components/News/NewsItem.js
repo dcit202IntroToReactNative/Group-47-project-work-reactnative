@@ -5,7 +5,7 @@ import { statusbar } from 'expo-status-bar'; // Is this needed?
 
 const NewsItem = ({ image, title, avatar, author, date, ...props }) => {
   let activeColors = colors;
-  // 
+  //
   return (
     <TouchableOpacity
       style={[{ backgroundColor: activeColors.secondary }, styles.container]}
