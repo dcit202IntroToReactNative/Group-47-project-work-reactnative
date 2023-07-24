@@ -8,7 +8,7 @@ import StyledText from '../components/Texts/StyledText';
 import NewsSection from '../components/News/NewsSection';
 
 //data
-import { newsData } from '../config/data';
+import { newsData } from '../config/data'; 
 export default function Home() {
   return (
     <MainContainer>
